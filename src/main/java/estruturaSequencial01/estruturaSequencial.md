@@ -1,4 +1,4 @@
-# ⭐ Capítulo 4: Estrutura Sequencial
+# ⭐ Estrutura Sequencial
 
 Este documento resume os fundamentos da manipulação de dados em Java, cobrindo armazenamento em memória, boas práticas de nomenclatura, entrada/saída de dados e funções matemáticas.
 
